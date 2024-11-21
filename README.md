@@ -6,17 +6,17 @@ This repository implements a deep convolutional neural network based on Residual
   <li>
     <h3>ResNet Identity Block</h3>
     <p>Architecture of the ResNet identity block:</p>
-    <img src="/images/idblock2_kiank.png" style="width:650px;height:150px;">
+    <img src="images/idblock2_kiank.png" style="width:650px;height:150px;">
   </li>
   <li>
     <h3>Convolutional Block</h3>
     <p>Architecture of the convolutional block:</p>
-    <img src=“images/convblock_kiank.png” />
+    <img src=“images/convblock_kiank.png” style="width:650px;height:150px;">
   </li>
   <li>
     <h3>ResNet-50 Model</h3>
     <p>A full ResNet model with 50 layers, implemented using the following architecture:</p>
-    <img src=“images/resnet_kiank.png” />
+    <img src=“images/resnet_kiank.png” style="width:650px;height:150px;">
   </li>
 </ul>
 
