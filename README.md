@@ -6,7 +6,7 @@ This repository implements a deep convolutional neural network based on Residual
   <li>
     <h3>ResNet Identity Block</h3>
     <p>Architecture of the ResNet identity block:</p>
-    <img src="images/idblock2_kiank.png" style="width:650px;height:150px;">
+    
   </li>
   <li>
     <h3>Convolutional Block</h3>
@@ -22,3 +22,4 @@ This repository implements a deep convolutional neural network based on Residual
 
 <h3>Dataset and Training</h3>
 <p>The model is trained on the SIGNS dataset, which contains images of hand signs representing numbers. This is the same dataset used in the Convolutional Neural Networks project.</p>
+<img src="images/idblock2_kiank.png" style="width:650px;height:150px;">
